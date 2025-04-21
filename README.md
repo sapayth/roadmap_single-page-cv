@@ -1,1 +1,1 @@
-Welcome to the [Single-Page CV](https://roadmap.sh/projects/single-page-cv) project, proudly developed as part of the [roadmap.sh](https://roadmap.sh/) initiative.
+This project is part of a learning challenge from [roadmap.sh](https://roadmap.sh/). As following their roadmap, I built this [Single-Page CV](https://roadmap.sh/projects/single-page-cv) project to apply and reinforce the skills I'm learning.
